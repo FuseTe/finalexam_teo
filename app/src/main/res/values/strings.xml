@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">teonafinal</string>
+    <string name="desi_italian_3_more" />
+    <string name="burger_more" />
+    <string name="kfc_nuggets" />
+    <string name="recent_orders" />
+    <string name="favourite_dishes" />
+    <string name="home" />
+    <string name="favourite_curations" />
+    <string name="search_food_nearby" />
+    <string name="user1" />
+    <string name="name" />
+    <string name="user_1" />
+    <string name="your_preferences" />
+    <string name="burgers_bevarages" />
+    <string name="_200" />
+    <string name="_200_rub">200 rub</string>
+    <string name="_200_rub">200 rub</string>
+    <string name="burgers_bevarages_">burgers bevarages</string>
+    <string name="desi_italian_3_more_">desi italian 3 more</string>
+    <string name="kfc_nuggets_">kfc nuggets</string>
+    <string name="recent_orders_">recent orders</string>
+    <string name="favourite_dishes_">favourite dishes</string>
+    <string name="home_">home</string>
+    <string name="favourite_curations_">favourite curations</string>
+    <string name="search_food_nearby_">search food nearby</string>
+    <string name="_user1">user1</string>
+    <string name="name_">name</string>
+    <string name="user_1_">user_1</string>
+    <string name="your_preferences_">your preferences</string>
+</resources>
